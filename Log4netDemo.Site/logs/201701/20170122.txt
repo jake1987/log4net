@@ -1,0 +1,36 @@
+Date：2017-01-22 17:10:22,928
+Exception：System.DivideByZeroException: 嘗試以零除。
+   於 Log4netDemo.TestLib.Calculator.Devide(Int32 i, Int32 k) 於 E:\GitHub\Log4netDemo\Log4netDemo.TestLib\Calculator.cs: 行 15
+--------------------------------------------------------------------------------
+Date：2017-01-22 17:10:24,933
+Exception：System.DivideByZeroException: 嘗試以零除。
+   於 Log4netDemo.TestLib.Calculator.Devide(Int32 i, Int32 k) 於 E:\GitHub\Log4netDemo\Log4netDemo.TestLib\Calculator.cs: 行 15
+--------------------------------------------------------------------------------
+Date：2017-01-22 17:10:25,102
+Exception：System.DivideByZeroException: 嘗試以零除。
+   於 Log4netDemo.TestLib.Calculator.Devide(Int32 i, Int32 k) 於 E:\GitHub\Log4netDemo\Log4netDemo.TestLib\Calculator.cs: 行 15
+--------------------------------------------------------------------------------
+Date：2017-01-22 17:10:25,312
+Exception：System.DivideByZeroException: 嘗試以零除。
+   於 Log4netDemo.TestLib.Calculator.Devide(Int32 i, Int32 k) 於 E:\GitHub\Log4netDemo\Log4netDemo.TestLib\Calculator.cs: 行 15
+--------------------------------------------------------------------------------
+Date：2017-01-22 17:10:25,461
+Exception：System.DivideByZeroException: 嘗試以零除。
+   於 Log4netDemo.TestLib.Calculator.Devide(Int32 i, Int32 k) 於 E:\GitHub\Log4netDemo\Log4netDemo.TestLib\Calculator.cs: 行 15
+--------------------------------------------------------------------------------
+Date：2017-01-22 17:10:25,784
+Exception：System.DivideByZeroException: 嘗試以零除。
+   於 Log4netDemo.TestLib.Calculator.Devide(Int32 i, Int32 k) 於 E:\GitHub\Log4netDemo\Log4netDemo.TestLib\Calculator.cs: 行 15
+--------------------------------------------------------------------------------
+Date：2017-01-22 17:10:26,131
+Exception：System.DivideByZeroException: 嘗試以零除。
+   於 Log4netDemo.TestLib.Calculator.Devide(Int32 i, Int32 k) 於 E:\GitHub\Log4netDemo\Log4netDemo.TestLib\Calculator.cs: 行 15
+--------------------------------------------------------------------------------
+Date：2017-01-22 17:10:26,565
+Exception：System.DivideByZeroException: 嘗試以零除。
+   於 Log4netDemo.TestLib.Calculator.Devide(Int32 i, Int32 k) 於 E:\GitHub\Log4netDemo\Log4netDemo.TestLib\Calculator.cs: 行 15
+--------------------------------------------------------------------------------
+Date：2017-01-22 17:10:27,062
+Exception：System.DivideByZeroException: 嘗試以零除。
+   於 Log4netDemo.TestLib.Calculator.Devide(Int32 i, Int32 k) 於 E:\GitHub\Log4netDemo\Log4netDemo.TestLib\Calculator.cs: 行 15
+--------------------------------------------------------------------------------

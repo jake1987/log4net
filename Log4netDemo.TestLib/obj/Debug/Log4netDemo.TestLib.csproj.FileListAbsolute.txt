@@ -1,0 +1,9 @@
+E:\GitHub\Log4netDemo\Log4netDemo.TestLib\bin\Debug\Log4netDemo.TestLib.dll
+E:\GitHub\Log4netDemo\Log4netDemo.TestLib\bin\Debug\Log4netDemo.TestLib.pdb
+E:\GitHub\Log4netDemo\Log4netDemo.TestLib\obj\Debug\Log4netDemo.TestLib.csprojResolveAssemblyReference.cache
+E:\GitHub\Log4netDemo\Log4netDemo.TestLib\obj\Debug\Log4netDemo.TestLib.dll
+E:\GitHub\Log4netDemo\Log4netDemo.TestLib\obj\Debug\Log4netDemo.TestLib.pdb
+E:\GitHub\Log4netDemo\Log4netDemo.TestLib\bin\Debug\Log4netDemo.Common.dll
+E:\GitHub\Log4netDemo\Log4netDemo.TestLib\bin\Debug\log4net.dll
+E:\GitHub\Log4netDemo\Log4netDemo.TestLib\bin\Debug\Log4netDemo.Common.pdb
+E:\GitHub\Log4netDemo\Log4netDemo.TestLib\bin\Debug\log4net.xml
